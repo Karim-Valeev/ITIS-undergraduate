@@ -1,0 +1,16 @@
+---
+name: "Bob"
+birthDate:
+  year: 1999
+  month: "JANUARY"
+  dayOfWeek: "SATURDAY"
+  leapYear: false
+  dayOfYear: 23
+  era: "CE"
+  monthValue: 1
+  dayOfMonth: 23
+  chronology:
+    calendarType: "iso8601"
+    id: "ISO"
+gender: "male"
+group: "11-703"
