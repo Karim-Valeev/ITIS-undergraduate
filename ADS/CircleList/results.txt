@@ -1,0 +1,42 @@
+Empty constructor take in average: 11 microseconds
+
+Constructor for 100 elements take in average: 929 microseconds
+
+Constructor for 500 elements take in average: 837 microseconds
+
+Constructor for 1000 elements take: 1146 microseconds
+
+show() for 100 take in average: 1113 microseconds
+
+show() for 500 take in average: 5166 microseconds
+
+show() for 1000 take in average: 9913 microseconds
+
+insert() take in average: 344 nanoseconds
+
+delete() take in average: 346 nanoseconds
+
+bubbleSort() for 100 take in average: 71181 nanoseconds
+
+sortUsingStringArray() for 100 take in average: 57608 nanoseconds
+
+bubbleSort() for 500 take in average: 1693 microseconds
+
+sortUsingStringArray()  for 500 take in average: 185 microseconds
+
+bubbleSort() for 1000 take in average: 8325 microseconds
+
+sortUsingStringArray()  for 1000 take in average: 329 microseconds
+
+last() for 100 elements take in average: 3089 nanoseconds
+
+last() for 500 elements take in average: 8460 nanoseconds
+
+last() for 1000 elements take in average: 11821 nanoseconds
+
+gender() for 100 take in average: 4622 nanoseconds
+
+gender() for 500 take in average: 23132 nanoseconds
+
+gender() for 1000 take in average: 52088 nanoseconds
+
