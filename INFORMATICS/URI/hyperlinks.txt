@@ -1,0 +1,8 @@
+https://javarush.ru/quests/lectures/questcollections.level01.lecture01
+
+https://docs.oracle.com/javase/7/docs/api/java/nio/file/Path.html
+
+https://annimon.com/article/2778
+
+https://habr.com/ru/post/437694/
+
