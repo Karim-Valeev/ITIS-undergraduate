@@ -16,6 +16,8 @@
 
 4.2 - /Task_4.2/
 
+5 - /NavigableSet/
+
 6 - /Task_6/
 
 7.4-7.9 - /Lambda/
