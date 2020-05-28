@@ -14,5 +14,7 @@ public class WeightBubbleSorter {
         }
     }
 
+    //compareTo() реализован в Recruit.java
+    //swap() в EndlessArray
 
 }
